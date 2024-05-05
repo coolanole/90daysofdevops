@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'ru'
+title = '90 days of devops'
+theme = 'hugo-book'
